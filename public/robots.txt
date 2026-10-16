@@ -1,0 +1,32 @@
+# ==============================================================================
+# ROBOTS.TXT — NAYAB REHAN (HAUTE COUTURE & TEXTILE ARCHIVE)
+# ==============================================================================
+
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Search & AI Crawlers explicitly welcomed for generative fashion indexing
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# Canonical Sitemap Reference
+Sitemap: https://nayabrehan.com/sitemap.xml
